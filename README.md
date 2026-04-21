@@ -1,2 +1,2 @@
 # latex
-Simple Automation Script to Install Latex in Linux Machines(Ubuntu 24.04)
+Simple Automation Script to Install Latex in Linux Machine (Ubuntu 24.04.1)
